@@ -1,0 +1,40 @@
+body {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.headbar_container {
+    list-style-type: none;
+    margin: 0;
+    margin-left: -8px;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333333;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+.headbar {
+    float: left;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+}
+li a {
+    color: inherit;
+    text-decoration: none;
+}
+h1 {
+    color: black;
+    text-align: center;
+    margin-top: 100px;
+}
+.music {
+    height: 500px;
+    width: 400px;
+    margin-bottom: 75px;
+}
+.Research {
+    height: 700px;
+    width: 900px;
+    margin-left: 200px;
+}
