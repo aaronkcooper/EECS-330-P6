@@ -7,7 +7,7 @@ body {
     margin-left: -8px;
     padding: 0;
     overflow: hidden;
-    background-color: #333333;
+    background-color: navy;
     position: fixed;
     top: 0;
     width: 100%;
@@ -34,7 +34,13 @@ h1 {
     margin-bottom: 75px;
 }
 .Research {
-    height: 700px;
+    height: 650px;
     width: 900px;
-    margin-left: 200px;
+    margin-left: 550px;
+}
+.research_header {
+    text-align: right;
+    margin-right: 380px;
+    font-size: 2em;
+    color: darkblue;
 }
